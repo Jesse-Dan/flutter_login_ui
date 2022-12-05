@@ -10,7 +10,6 @@ OS: Windows 10
 
 ## Video Tutorial
 
-https://fluttertutorial.net/s/flutter_login_ui_yt
 
 ## Screenshots
 <img src="https://github.com/FlutterTutorialNet/flutter_login_ui/raw/main/assets/images/Screenshot/flutter-login-registration-profile-password-verification-ui-design.jpg"> 
